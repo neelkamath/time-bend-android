@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Time Bend</string>
+    <string name="day_start">day start</string>
+    <string name="day_end">day end</string>
+    <string name="create">Create</string>
+    <string name="duration">Duration</string>
+    <string name="activity">Activity</string>
+    <string name="delete">x</string>
+    <string name="reset">Reset</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sure">Are you sure you want to delete all your activities?</string>
+    <string name="reserve_left">reserve left</string>
+    <string name="invalid_duration_length">The activity must be one to sixty minutes</string>
+    <string name="duration_empty">You didn\'t specify a duration</string>
+    <string name="no_activity_specified">You didn\'t specify an activity</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructions_popup"><a href="http://chetansurpur.com/blog/2012/10/time-bending.html">Here\'s the technique</a>. Swipe left to delete activities and swipe right to mark them as complete or incomplete. Drag and drop to reorder activities. Touch the activity\'s duration to edit the activity.</string>
+    <string name="cancel">Cancel</string>
+    <string name="created">Your activity has been created</string>
+    <string name="updated">Your activity has been updated</string>
+    <string name="update">Update</string>
+</resources>
