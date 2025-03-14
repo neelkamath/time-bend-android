@@ -4,7 +4,7 @@
   <img alt="Get it on Google Play" width="185" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" />
 </a>
 
-This is a native Android application written in Java to get everything done and more using Chetan Surpur's technique of [time bending](http://chetansurpur.com/blog/2012/10/time-bending.html).
+This is a native Android application written in Java to get everything done and more using Chetan Surpur's technique of [time bending](http://chetansurpur.com/blog/2012/10/time-bending.html). [Here](https://neelkamath.notion.site/time-bend-native-android-app-demo)'s the demo.
 
 ![Screenshot](screenshot.png)
 
